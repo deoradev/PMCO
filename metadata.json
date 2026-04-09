@@ -1,0 +1,5 @@
+{
+  "name": "PMC",
+  "description": "Personality Management Co. - Your futuristic AI companion that knows you better than you know yourself.",
+  "requestFramePermissions": ["microphone"]
+}
